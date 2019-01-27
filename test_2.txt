@@ -1,1 +1,3 @@
 Does it works with this file?
+
+It works after closing. :)
